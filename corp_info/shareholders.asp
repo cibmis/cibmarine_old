@@ -151,7 +151,7 @@ a {text-decoration: none}
                         <li><span class="style4" style="margin-top: 0; margin-bottom: 0;">stock transfer and re-registration procedures (including restricted stock);</span></li>
                         <li><span class="style4" style="margin-top: 0; margin-bottom: 0;">changes of address; and</span></li>
                         <li><span class="style4" style="margin-top: 0; margin-bottom: 0;">replacement of lost stock certificates</span>.</li>
-                  </ul>                      
+                  </ul>
                       <p class="style43"><a href="http://www.computershare.com/investor">Computershare</a> may be contacted as follows: </p>
                       <table width="625" border="1" cellpadding="1" cellspacing="0" bordercolor="#CCCCCC">
                         <tr valign="top">
@@ -169,7 +169,7 @@ a {text-decoration: none}
                             <p class="style48" style="margin-top:0;margin-bottom:0;"><span style="color:black;">211  Quality Circle, Suite 210</span></p>
                             <p style="margin-top:0;margin-bottom:0;"><span style="font-family:Verdana, Arial, Helvetica, sans-serif; color:black;">College  Station, TX 77845</span><span style="font-family:Verdana;color:black;"> </span></p>                            </td>
                         </tr>
-                  </table>                      
+                  </table>
                       <p class="style43" style="margin-top: 0;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                       <p align="center" class="style43" style="margin-bottom: 0;"><strong>**Unclaimed Property Due Diligence</strong>**</p>
                     <p align="left" class="style43" style="margin-top: 0;">Many of our shareholders have been receiving a mailing from Computershare citing inactivity on the shareholder's account and requesting a response in order to keep the shares from being transferred into the custody of the state.&nbsp;</p>
@@ -218,3 +218,13 @@ a {text-decoration: none}
 </table>
 </body>
 </html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42196149-7', 'auto');
+  ga('send', 'pageview');
+
+</script>

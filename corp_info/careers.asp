@@ -22,24 +22,24 @@ mortgage rates, CD rates, interest rates, credit cards, mortgages, home equity l
 
 Wisconsin, Illinois, Nebraska, Florida, Indianapolis, Indy, Arizona, Milwaukee, Chicago, Miami, Champaign, Scottsdale, Omaha, Nevada
 
-Holding, Corporation, Corp, National, Bank, Banks, Banking, Louisiana, LA, Mississippi, MS, Alabama, AL, Florida, FL, Financial, FDIC, Equal, Housing, Lender, Securities, Service, HB, Online, family, industry, Security, Corporate, Profile, community, Career, job, jobs, openings, positions, postings, opportunities, Resume, recruiting, Privacy, Disclosure, disclaimers, brokerage, Checking, deposit, account, Select, Save, overdraft protection, 
+Holding, Corporation, Corp, National, Bank, Banks, Banking, Louisiana, LA, Mississippi, MS, Alabama, AL, Florida, FL, Financial, FDIC, Equal, Housing, Lender, Securities, Service, HB, Online, family, industry, Security, Corporate, Profile, community, Career, job, jobs, openings, positions, postings, opportunities, Resume, recruiting, Privacy, Disclosure, disclaimers, brokerage, Checking, deposit, account, Select, Save, overdraft protection,
 checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings, accounts, interest, money, market, withdrawal, interest, rate, Fixed, certificates, deposits, CD, Retirement, tax, benefits, IRA, individual, Roth, investment, contributions, 401k, 401-k, 401(k), education, educational, Trust, Planning, assets, Loans, borrowing, equity, consumer, car, auto, personal, line of credit, LOC, loan, secured, automobile, payment, mezzanine, lending, lend, mortgage, ARM, adjustable rate, FHA, VA,  financing, refinance, pension, Business, purchase, SEP, mutual, funds, mutual funds, risk, bonds, online banking, savings bonds, certificate of deposit, internet banking, money market, checking account, commercial banking, investments, mortgage, Internet banking, Southeast, northeast, midwest, northeast, west, western, southwest, south, money market account, certificate of deposit rate, bank rate, banks, internet bill pay, internet bill payment">
 </head>
 <body link="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="../art/background.gif" vlink="#9C0000" text="#000000">
 <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
   <!-- fwtable fwsrc="CIB Design 2.png" fwbase="index.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="1" -->
   <tr>
-    <td colspan="2" bgcolor="#323264"> 
+    <td colspan="2" bgcolor="#323264">
       <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="90%">
-        <tr bgcolor="#9C0000"> 
+        <tr bgcolor="#9C0000">
           <td width="486" align="left" bgcolor="#323264"><a href="../index.asp"><img src="../art/clipper_ship_head.jpg" alt="CIB Marine Bancshares, Inc. Header" name="img_header" width="528" height="49" border="0" id="img_header" /></a></td>
-	      <td align="right" valign="top" width="354" bgcolor="#323264"> 
+	      <td align="right" valign="top" width="354" bgcolor="#323264">
             <table width="261" border="0" cellspacing="0" cellpadding="0" height="19">
-              <tr> 
-                <td width="261"> 
+              <tr>
+                <td width="261">
            <div class="white_text" align="right"><a href="../privacy.asp">Privacy Statement</a> | <a href="../contact/contactus.asp">Contact Us</a> | <a href="../index.asp">Home</a></div>
                 </td>
-                <td width="10"> 
+                <td width="10">
                   <div align="right"><img src="../art/spacer.gif" width="20" height="12" border="0" /></div>
                 </td>
               </tr>
@@ -52,11 +52,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
   <tr>
     <td colspan="2">
       <table width="810" border="0" cellspacing="0" cellpadding="0" height="24">
-        <tr> 
+        <tr>
           <td width="12"><img src="../art/spacer.gif" width="10" height="12" border="0" /></td>
-          <td class="cibBreadcrumb" width="189">           
+          <td class="cibBreadcrumb" width="189">
              <%= FormatDateTime(now,1) %>
-            
+
           </td>
           <td class="cibBreadcrumb" width="609"><a href="../index.asp">Home </font></a>&gt; <a href="careers.asp">Careers</a></td>
         </tr>
@@ -66,10 +66,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
   <tr>
    <td colspan="2">
       <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="786">
-        <tr> 
-          <td width="201" bgcolor="#A3A3A3" valign="top"> 
+        <tr>
+          <td width="201" bgcolor="#A3A3A3" valign="top">
             <table bgcolor="#A3A3A3" border="0" cellpadding="0" cellspacing="0" width="76">
-              <tr> 
+              <tr>
                 <td bgcolor="#A3A3A3" valign="top">
                   <table width="201" border="0" cellspacing="0" cellpadding="10" height="145">
                     <tr>
@@ -137,17 +137,17 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
               </tr>
             </table>
           </td>
-          <td valign="top" width="585"> 
+          <td valign="top" width="585">
             <table width="608" border="0" cellspacing="0" cellpadding="0">
-              <tr> 
+              <tr>
                 <td bgcolor="#292929" width="392"><p style="margin-top: 0; margin-bottom: 0"><img src="../images/heads/corp_info.gif" alt="Life At CIB Marine Bancshares, Inc." width="305" height="43" /></p>
                 <p class="style38" style="margin-top: 0; margin-bottom: 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Careers</p></td>
                 <td bgcolor="#292929" width="216"></td>
               </tr>
             </table>
             <table class="cib" width="599" border="0" cellspacing="0" cellpadding="15">
-              <tr> 
-                <td valign="top"  height="51" width="569"> 
+              <tr>
+                <td valign="top"  height="51" width="569">
                   <p>CIB Marine Bancshares, Inc. (CIBM) has great opportunities
                     awaiting career minded individuals. We are driven by
                     an attitude that is unique and unexpected in the financial
@@ -179,3 +179,13 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
 <p style="margin-bottom: 0;"></p>
 </body>
 </html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42196149-7', 'auto');
+  ga('send', 'pageview');
+
+</script>
