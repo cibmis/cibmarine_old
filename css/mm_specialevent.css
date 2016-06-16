@@ -1,0 +1,129 @@
+/* Global Styles */
+
+body {
+	margin:0;
+	}
+	
+td {
+	font:12px arial;
+	color:#ffffff;
+	}
+	
+hr {
+	height:1px; 
+	color: #AFC3AB;
+	border: 0;
+	}
+	
+a {
+	color: #AFC3AB;
+	}
+	
+a:hover {
+	color: #B2CFED;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 1px solid rgb(91,108,134);
+	}
+	
+#navigation a {
+	font:11px arial;
+	color: #5B6C86;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 8px 20px;
+	background:  url("file:///C|/Program%20Files/Macromedia/Contribute%203/Configuration/Content/StarterPages/50-personal/special_event/mm_bullet.gif") 8px 50% no-repeat;
+	}
+	
+#navigation a:hover {
+	background: rgb(153,178,204) url("file:///C|/Program%20Files/Macromedia/Contribute%203/Configuration/Content/StarterPages/50-personal/special_event/mm_bullet_vsmall.gif") 8px 50% no-repeat;
+	color:#ffffff;
+	}
+	
+#navheader {
+	font:28px arial;
+	color: #5B6C86;
+	letter-spacing:.2em;
+	line-height:30px;
+	padding:8px 0px 8px 0px;
+	border-bottom: 1px solid rgb(91,108,134);
+	}
+
+#colheader {
+	padding: 4px;
+	}
+
+#logo {font:18px arial;
+	color: #ffffff;
+	letter-spacing:.3em;
+	}
+
+#tagline {font:12px geneva;
+	color: #5B6C86;
+	letter-spacing:.4em;
+	}
+	
+#dateformat {font:11px arial;
+	color: #FFFFFF;
+	letter-spacing:.4em;
+	vertical-align: middle;
+	}
+	
+#dateformat a {font:11px arial;
+	color: #FFFFFF;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+	
+#dateformat a:hover {
+	color: #5b6c86;
+	letter-spacing:.1em;
+	}
+
+/* Class Styles */
+	
+.bodyText {
+	font:12px arial;
+	color:#ffffff;
+	line-height:20px;
+	margin-top:0;
+	}
+	
+.pageName{
+	font:18px arial;
+	color: #AFC3AB;
+	line-height:22px;
+	letter-spacing:.3em;
+	}
+	
+.subHeader {
+	font:14px arial;
+	color: #B2CFED;
+	line-height:18px;
+	letter-spacing:.1em;
+	}
+
+.detailText {
+	font:11px arial;
+	color:#ffffff;
+	line-height:18px;
+	}
+	
+.smallText {
+	font:10px arial;
+	color:#99B2CC;
+	}
+	
+.navText {
+	font:11px arial;
+	color: #5B6C86;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
