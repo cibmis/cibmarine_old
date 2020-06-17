@@ -17,15 +17,10 @@ a {text-decoration: none}
 .style43 {color: #000000}
 .style47 {color: #000000; font-size: 12px; }
 .style48 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.style46 {  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: 11px;
-  color: #000066;
-}
-.style49 {  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 11px;
-  font-weight: bold;
+.style52 {
   color: #333366;
+  font-size: 13px;
+  font-weight: bold;
 }
 -->
 </style>
@@ -70,8 +65,7 @@ a {text-decoration: none}
                         <table class="white_nav" width="169" border="0" cellspacing="0" cellpadding="4">
                           <tr>
                             <td width="4"><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td width="146" nowrap="nowrap"><a href="shareholders.asp">Investor Relations/<br />
-                            Stock Transfer Agent</a></td>
+                            <td width="146" nowrap="nowrap"><a href="shareholders.asp">Investor Relations</a></td>
                           </tr>
                           <tr>
                             <td width="4"><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
@@ -122,14 +116,19 @@ a {text-decoration: none}
                             <td nowrap="nowrap"><a href="../financial_info/section16.asp">Section 16 Filings</a></td>
                           </tr>
                           <tr>
-                            <td>&nbsp;</td>
-                            <td nowrap="nowrap">&nbsp;</td>
+                            <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                            <td nowrap="nowrap"><a href="../financial_info/documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
                           </tr>
                       </table>
                       </td>
                   </tr>
                   <tr>
-                    <td bgcolor="#A3A3A3" valign="top">&nbsp;</td>
+                    <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
+                        <tr valign="top">
+                          <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
+                        </tr>
+                      </table>
+                      <p style="margin-bottom: 0;"></p></td>
                   </tr>
                 </table></td>
               </tr>
@@ -163,11 +162,11 @@ a {text-decoration: none}
                           <td class="style43"><p style="margin-top: 0">800.962.4284&nbsp;</p>
                           </td>
                           <td width="239" valign="top" class="style43"><p style="margin-top:0;margin-bottom:0;"><span style="color:black;">Computershare </span></p>
-                            <p style="margin-top:0;margin-bottom:0;"><span style="color:black;">P.O.  Box 30170</span></p>
-                            <p style="margin-top:0;margin-bottom:0;"><span style="color:black;">College  Station, TX 77842-3170</span></p>                            </td>
+                            <p style="margin-top:0;margin-bottom:0;"> <span style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">PO Box 505000 </span></p>
+                            <p style="margin-top:0; margin-bottom: 0;"><span style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">Louisville, KY 40233-5000</span> </p></td>
                           <td width="216" valign="top" class="style47"><p style="margin-top:0;margin-bottom:0;"><span style="font-family:Verdana, Arial, Helvetica, sans-serif; color:black;">Computershare </span></p>
-                            <p class="style48" style="margin-top:0;margin-bottom:0;"><span style="color:black;">211  Quality Circle, Suite 210</span></p>
-                            <p style="margin-top:0;margin-bottom:0;"><span style="font-family:Verdana, Arial, Helvetica, sans-serif; color:black;">College  Station, TX 77845</span><span style="font-family:Verdana;color:black;"> </span></p>                            </td>
+                            <p class="style48" style="margin-top:0;margin-bottom:0;"> <span style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#000000;">462 South 4th Street, Suite 1600 Louisville, KY 40202</span> </p>
+                          </td>
                         </tr>
                   </table>
                       <p class="style43" style="margin-top: 0;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -187,11 +186,10 @@ a {text-decoration: none}
   <tr valign="top">
     <td><p class="style4" style="margin-top: 0;"><strong>Toll Free</strong>:<strong> </strong>866.270.0087</p>
       <p class="style4"><strong>Local</strong>: 262.695.6010</p>
-      <p class="style4" style="margin-bottom: 0;"><strong>Fax</strong>: 262.695.8319</p>      </td>
+      <p class="style4" style="margin-bottom: 0;"><strong>Fax</strong>: 630.735.2841</p>      </td>
     <td><a href="mailto:shareholderrelations@cibmarine.com" target="_blank" class="style14">shareholderrelations@cibmarine.com</a></td>
-    <td><p class="style4" style="margin-top: 0; margin-bottom: 0">1930 West Bluemound Road</p>
-      <p class="style4" style="margin-top: 0; margin-bottom: 0;">Suite D</p>
-      <p class="style4" style="margin-top: 0; margin-bottom: 0;">Waukesha, WI 53186</p></td>
+    <td><p class="style4" style="margin-top: 0; margin-bottom: 0">19601 W. Bluemound Road</p>
+      <p class="style4" style="margin-top: 0; margin-bottom: 0;">Brookfield, WI 53045</p></td>
     </tr>
 </table>
 <p style="margin-top: 0; margin-bottom: 0;"><br />

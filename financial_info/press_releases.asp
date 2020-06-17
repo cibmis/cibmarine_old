@@ -25,11 +25,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
   font-size: 24px;
   font-family: "Agency FB";
 }
-.style47 {
+.style52 {
+  color: #333366;
   font-size: 13px;
   font-weight: bold;
 }
-.style48 {color: #323264}
 -->
 </style>
 </head>
@@ -75,11 +75,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
    <td colspan="3">
       <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="786">
         <tr>
-          <td width="201" bgcolor="#A3A3A3" valign="top">
+          <td width="201" height="351" valign="top" bgcolor="#A3A3A3">
             <table bgcolor="#A3A3A3" border="0" cellpadding="0" cellspacing="0" width="76">
               <tr>
                 <td bgcolor="#A3A3A3" valign="top">
-                  <table width="201" border="0" cellspacing="0" cellpadding="10" height="145">
+                  <table width="201" border="0" cellspacing="0" cellpadding="10" height="293">
                     <tr>
                       <td bgcolor="#A3A3A3" valign="top"><img src="../art/life_at_CIB.gif" alt="Life At CIB Marine" width="145" height="9" /><br />
                           <img src="../art/spacer.gif" width="150" height="6" border="0" /><br />
@@ -136,17 +136,25 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                               <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
                               <td nowrap="nowrap"><a href="section16.asp">Section 16 Filings</a></td>
                             </tr>
-                        </table>
-                          <p align="center" class="style47" style="margin-bottom: 0;"><a href="../corp_info/2016AnnualShareholderMeeting.asp" class="style48">2016 Annual Shareholder Meeting Information</a></p></td>
+                            <tr>
+                              <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                              <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
+                            </tr>
+                        </table>                      </td>
                     </tr>
                     <tr>
-                      <td bgcolor="#A3A3A3" valign="top"> </td>
+                      <td height="10" valign="top" bgcolor="#A3A3A3"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
+                          <tr valign="top">
+                            <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
+                          </tr>
+                        </table>
+                        <p style="margin-bottom: 0;"></p></td>
                     </tr>
                   </table></td>
               </tr>
             </table>
           </td>
-          <td valign="top" width="585">
+          <td width="585" rowspan="2" valign="top">
             <table width="608" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td bgcolor="#292929" width="392"><p style="margin-top: 0; margin-bottom: 0"><img src="../images/heads/financial_info.gif" alt="Career Opportunities" width="305" height="43" /></p>
@@ -162,7 +170,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                   <p align="justify" class="style45" style="margin-bottom: 0;">Stockholders  should note that many factors, some of which are discussed elsewhere in these documents and in the documents that are incorporated by reference,  could affect the future financial results of CIB Marine and could cause those  results to differ materially from those expressed in forward-looking statements  contained or incorporated by reference in these documents. These factors, many of  which are beyond CIB Marine&rsquo;s control, include but are not limited to:</p>
                   <div align="justify">
                     <ul class="style45" style="margin-top: 0; margin-bottom: 0;">
-                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  and regulatory risks;</span></li>
+                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  execution, credit, market, security (including cyber), and regulatory risks;</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">economic,  political, and competitive forces affecting CIB Marine&rsquo;s banking business;</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the impact on net  interest income and securities values from changes in monetary policy and  general economic and political conditions; and</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the risk that CIB  Marine&rsquo;s analyses of these risks and forces could be incorrect and/or that the  strategies developed to address them could be unsuccessful.</span></li>
@@ -175,6 +183,154 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td><div align="center"><strong>Date of Press Release</strong></div></td>
                       <td><div align="center"><strong>Description of Press Release </strong></div></td>
                       <td><div align="center">File</span></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">April 23, 2020</td>
+                      <td >CIB Marine Announces 2020 First Quarter Results</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center"><a href="documents/PressRelease_1QFinancials_042420.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">January 24, 2020</td>
+                      <td >CIB Marine Announces 2019 Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2019Financials_012420.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">November 19, 2019</td>
+                      <td >CIB Marine Announces Additions to Board of Directors</td>
+                      <td><div align="center"><a href="documents/PR_CockingCotterAdditions_111919.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">October 11, 2019</td>
+                      <td >CIB Marine Announces 2019 Third Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_3QFinancials_101119.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">July 19, 2019</td>
+                      <td >CIB Marine Announces 2019 Second Quarter Results</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center">
+                                <div align="center">
+                                  <div align="center">
+                                    <div align="center">
+                                      <div align="center"><a href="documents/PressRelease_2QFinancials_071919.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div align="center"></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">April 12, 2019</td>
+                      <td >CIB Marine Announces 2019 First Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_1QFinancials_041219.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">January 25, 2019</td>
+                      <td >CIB Marine Announces 2018 Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2018Financials_012519.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">October 11, 2018</td>
+                      <td >CIB Marine Announces 2018 Third Quarter Results</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center">
+                                <div align="center">
+                                  <div align="center"><a href="documents/PressRelease_3QFinancials_101118.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">July 12, 2018</td>
+                      <td >CIB Marine Announces 2018 Second Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2QFinancials_071218.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">April 13, 2018</td>
+                      <td >CIB Marine Announces 2018 First Quarter Results</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center"><a href="documents/PressRelease_1QFinancials_041318.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">January 31, 2018</td>
+                      <td >CIB Marine Announces 2017 Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2017Earnings_013118.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">October 17, 2017</td>
+                      <td >CIBM Bank Hires CRA Lender</td>
+                      <td><div align="center"><a href="documents/PR_EWilliamsHire101717.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">October 10, 2017</td>
+                      <td >CIB Marine Announces 2017 Third Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_3QFinancials_101017.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">July 12, 2017</td>
+                      <td >CIB Marine Announces 2017 Second Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2QFinancials_071217.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">June 14, 2017</td>
+                      <td >CIBM Bank Announces Promotions to Executive Vice President</td>
+                      <td><div align="center"><a href="documents/PressRelease_EVPPromotions_061417.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">April 13, 2017</td>
+                      <td >CIB Marine Announces 2017 First Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_1QFinancials_041317.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">March 1, 2017</td>
+                      <td >CIB Marine Announces Additions to Board of Directors</td>
+                      <td><div align="center"><a href="documents/PR_PalmitierHenderson_030117.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">January 13, 2017</td>
+                      <td >CIB Marine Announces 2016 Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2016Earnings_011317_Updated021617.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">October 13, 2016</td>
+                      <td >CIB Marine Announces 2016 Third Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_3QFinancials_101316.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">September 23, 2016</td>
+                      <td >Marine Bank Appoints Business Development Officer</td>
+                      <td><div align="center">
+                        <div align="center"><a href="documents/StollPR_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">July 14, 2016</td>
+                      <td >CIB Marine Announces 2016 Second Quarter Results</td>
+                      <td><div align="center"><a href="documents/PressRelease_2QFinancials_071416.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
                     </tr>
                     <tr bgcolor="#CCCCCC">
                       <td height="20">April 29, 2016</td>
@@ -457,8 +613,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
 			    <p>&nbsp;  </p></td>
               </tr>
             </table>
-            <p> </p>
-          </td>
+            <p> </p>          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#A3A3A3" valign="top">&nbsp;</td>
         </tr>
       </table>
     </td>

@@ -128,6 +128,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                               <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
                               <td nowrap="nowrap"><a href="section16.asp">Section 16 Filings</a></td>
                             </tr>
+                            <tr>
+                              <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                              <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
+                            </tr>
                         </table></td>
                     </tr>
                     <tr>

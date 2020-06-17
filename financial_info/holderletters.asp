@@ -26,10 +26,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
 .style39 {font-family: Verdana, Arial, Helvetica, sans-serif}
 .style40 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
 .style41 {font-size: 11px}
-.style47 {
+.style53 {
+  color: #333366;
   font-size: 13px;
   font-weight: bold;
-  color: #323264;
 }
 -->
 </style>
@@ -134,8 +134,20 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                         <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
                         <td nowrap="nowrap"><a href="section16.asp">Section 16 Filings</a></td>
                       </tr>
+                      <tr>
+                        <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                        <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
+                      </tr>
                   </table>
-                    <p align="center" class="style47" style="margin-bottom: 0;"><a href="../corp_info/2016AnnualShareholderMeeting.asp">2016 Annual Shareholder Meeting Information</a></p></td>
+                </td>
+              </tr>
+              <tr>
+                <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
+                    <tr valign="top">
+                      <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style53">2020 Annual Shareholder Meeting</a></td>
+                    </tr>
+                  </table>
+                  <p style="margin-bottom: 0;"></p></td>
               </tr>
               <tr>
                 <td bgcolor="#A3A3A3" valign="top"></td>
@@ -157,7 +169,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                   <p align="justify" class="style40" style="margin-bottom: 0;">Stockholders  should note that many factors, some of which are discussed elsewhere in these documents and in the documents that are incorporated by reference,  could affect the future financial results of CIB Marine and could cause those  results to differ materially from those expressed in forward-looking statements  contained or incorporated by reference in these documents. These factors, many of  which are beyond CIB Marine&rsquo;s control, include but are not limited to:</p>
                   <div align="justify">
                     <ul class="style40" style="margin-top: 0; margin-bottom: 0;">
-                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  and regulatory risks; </span></li>
+                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  execution, credit, market, security (including cyber), and regulatory risks; </span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">economic,  political, and competitive forces affecting CIB Marine&rsquo;s banking business; </span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the impact on net  interest income and securities values from changes in monetary policy and  general economic and political conditions; and</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the risk that CIB  Marine&rsquo;s analyses of these risks and forces could be incorrect and/or that the  strategies developed to address them could be unsuccessful.</span></li>
@@ -171,6 +183,116 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                     <tr class="cibChartHead" bgcolor="#323264">
                       <td width="83%">Date of Shareholder Letter</td>
                       <td width="17%"><div align="center">Link to File </div></td>
+                    </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>May 7, 2020</td>
+		              <td><div align="center">
+		                <div align="center"><a href="documents/ShareholderLetter_050720.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+		              </div></td>
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>February 13, 2020</td>
+		              <td><div align="center"><a href="documents/ShareholderLetter_021320.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>November 7, 2019</td>
+		              <td><div align="center"><a href="documents/ShareholderLetter_110719.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>August 8, 2019</td>
+		              <td><div align="center"><a href="documents/ShareholderLetter_080819.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+                      <td>May 10, 2019</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center"><a href="documents/PSGuidanceLetter_051019.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                        </div>
+                      </div></td>
+                    </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>May 9, 2019</td>
+		      <td><div align="center"><a href="documents/ShareholderLetter_050919.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+		      </tr>
+		    <tr bgcolor="#CCCCCC">
+		      <td>February 14, 2019</td>
+		      <td><div align="center"><a href="documents/ShareholderLetter_021419.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+		      </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>November 8, 2018</td>
+		      <td><div align="center"><a href="documents/ShareholderLetter_110818.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+		      </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>August 9, 2018</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center">
+                                <div align="center"><a href="documents/ShareholderLetter_080918.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>June 29, 2018</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_062918.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>May 10, 2018</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center">
+                                <div align="center"><a href="documents/ShareholderLetter_051018.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>February 15, 2018</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_021518.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>January 12, 2018</td>
+                      <td><div align="center"><a href="documents/PreferredShareholderLtr_011218.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>November 8, 2017</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_110817.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>August 3, 2017</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center"><a href="documents/ShareholderLetter_080317.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>May 4, 2017</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_050417.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>April 3, 2017</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_040317.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>February 16, 2017</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter_021617.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>November 9, 2016</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter110916.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>August 4, 2016</td>
+                      <td><div align="center"><a href="documents/ShareholderLetter080416.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
                     </tr>
                     <tr bgcolor="#CCCCCC">
                       <td>May 12, 2016</td>

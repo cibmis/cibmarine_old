@@ -25,10 +25,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
 }
 .style41 {font-family: Verdana, Arial, Helvetica, sans-serif}
 .style42 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
-.style48 {  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 11px;
-  font-weight: bold;
+.style56 {
   color: #333366;
+  font-size: 13px;
+  font-weight: bold;
 }
 -->
 </style>
@@ -137,10 +137,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                               <td nowrap="nowrap"><a href="../financial_info/section16.asp">Section 16 Filings</a></td>
                             </tr>
                             <tr>
-                              <td>&nbsp;</td>
-                              <td nowrap="nowrap">&nbsp;</td>
+                              <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                              <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
                             </tr>
                         </table>
+                          <p style="margin-top: 0; margin-bottom: 0">&nbsp;&nbsp; </p>
                       </td>
                     </tr>
                     <tr>
@@ -166,7 +167,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                   <p align="justify" class="style42" style="margin-bottom: 0;">Stockholders  should note that many factors, some of which are discussed elsewhere in these documents and in the documents that are incorporated by reference,  could affect the future financial results of CIB Marine and could cause those  results to differ materially from those expressed in forward-looking statements  contained or incorporated by reference in these documents. These factors, many of  which are beyond CIB Marine&rsquo;s control, include but are not limited to:</p>
                   <div align="justify" class="style42">
                     <ul style="margin-top: 0; margin-bottom: 0;">
-                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  and regulatory risks;</span></li>
+                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  execution, credit, market, security (including cyber), and regulatory risks;</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">economic,  political, and competitive forces affecting CIB Marine&rsquo;s banking business;</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the impact on net  interest income and securities values from changes in monetary policy and  general economic and political conditions; and</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the risk that CIB  Marine&rsquo;s analyses of these risks and forces could be incorrect and/or that the  strategies developed to address them could be unsuccessful.</span></li>

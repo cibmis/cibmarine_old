@@ -148,7 +148,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
             <table class="cib" width="599" border="0" cellspacing="0" cellpadding="15">
               <tr>
                 <td valign="top"  height="51" width="569">
-                  <p>CIB Marine Bancshares, Inc. (CIBM) has great opportunities
+                  <p>CIB Marine Bancshares, Inc. and its wholly owned subsidiary, CIBM Bank, have great opportunities
                     awaiting career minded individuals. We are driven by
                     an attitude that is unique and unexpected in the financial
                     industry - giving our employees more ways to learn and grow,
@@ -156,8 +156,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                   own success. </p>
                   <p>Please use the link below to find out more information about
                     CIBM and the opportunities currently available. </p>
-                  <p><a href="http://www.cibmcareers.com/"><img src="../images/icons/icon_clipper_ship.gif" alt="CIB Marine Bancshares, Inc. Careers Web Site" width="30" height="19" border="0" /></a> <a href="http://www.cibmcareers.com/">CIB
-                Marine Bancshares, Inc. Careers Web Site </a></p></td>
+                  <p><a href="http://www.cibmcareers.com/"></a> <a href="https://www.cibmbank.com/careers.html">CIBM Bank Careers Web Site </a></p></td>
               </tr>
             </table>
           </td>

@@ -26,11 +26,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
 .style39 {font-family: Verdana, Arial, Helvetica, sans-serif}
 .style40 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
 .style41 {font-size: 11px}
-.style43 {
-  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 13px;
-  color: #323264;
+.style55 {
+  color: #333366;
   font-weight: bold;
+  font-size: 13px;
 }
 -->
 </style>
@@ -136,14 +135,19 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                         <td nowrap="nowrap"><a href="../financial_info/section16.asp">Section 16 Filings</a></td>
                       </tr>
                       <tr>
-                        <td>&nbsp;</td>
-                        <td nowrap="nowrap">&nbsp;</td>
+                        <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                        <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
                       </tr>
                   </table>
                 </td>
               </tr>
               <tr>
-                <td bgcolor="#A3A3A3" valign="top"><div align="center"><span class="style43"><a href="2016AnnualShareholderMeeting.asp">2016 Annual Shareholder Meeting Information</a></span></div></td>
+                <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
+                  <tr valign="top">
+                    <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style55">2020 Annual Shareholder Meeting</a></td>
+                  </tr>
+                </table>
+                  <p style="margin-bottom: 0;"></p></td>
               </tr>
               <tr>
                 <td bgcolor="#A3A3A3" valign="top"></td>
@@ -165,7 +169,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                   <p align="justify" class="style40" style="margin-bottom: 0;">Stockholders  should note that many factors, some of which are discussed elsewhere in these documents and in the documents that are incorporated by reference,  could affect the future financial results of CIB Marine and could cause those  results to differ materially from those expressed in forward-looking statements  contained or incorporated by reference in these documents. These factors, many of  which are beyond CIB Marine&rsquo;s control, include but are not limited to:</p>
                   <div align="justify">
                     <ul class="style40" style="margin-top: 0; margin-bottom: 0;">
-                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  and regulatory risks; </span></li>
+                      <li><span style="margin-top: 0; margin-bottom: 0;">operating, legal,  execution, credit, market, security (including cyber), and regulatory risks; </span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">economic,  political, and competitive forces affecting CIB Marine&rsquo;s banking business; </span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the impact on net  interest income and securities values from changes in monetary policy and  general economic and political conditions; and</span></li>
                       <li><span style="margin-top: 0; margin-bottom: 0;">the risk that CIB  Marine&rsquo;s analyses of these risks and forces could be incorrect and/or that the  strategies developed to address them could be unsuccessful.</span></li>
@@ -181,12 +185,282 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td width="64%">Type of Information</td>
                       <td width="10%"><div align="center">Link to File </div></td>
                     </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>May 7, 2020</td>
+		              <td>Supplemental Quarterly Financial Information</td>
+		              <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo033120.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>May 1, 2020</td>
+		              <td>Reverse Tender Offer for Preferred Shares</td>
+		              <td><div align="center">
+                        <div align="center">
+                          <div align="center"><a href="documents/ReverseTenderOffer_050120.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                        </div>
+	                  </div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>May 1, 2020</td>
+		              <td>2020 Annual Meeting - Final Voting Results</td>
+		              <td><div align="center"><a href="documents/AnnualMeetingVoteTotals_043020.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>May 1, 2020</td>
+		              <td>2020 Annual Meeting - Management Presentation Script</td>
+		              <td><div align="center"><a href="documents/2020_ManagementPresentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>April 30, 2020</td>
+		              <td>2020 Annual Meeting - Presentation Slides</td>
+		              <td><div align="center"><a href="documents/2020_Presentation_Final_001.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>March 26, 2020</td>
+		              <td>Proxy Statement</td>
+		              <td><div align="center"><a href="documents/2020ProxyStatement_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>March 26, 2020</td>
+		              <td>Annual Report (2019)</td>
+		              <td><div align="center"><a href="documents/CIBMAnnualReport2019_Web.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>December 31, 2019</td>
+		              <td>Annual Consolidated Financial Statement</td>
+		              <td><div align="center"><a href="documents/CIBMFinancialStatements_123119.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>September 30, 2019</td>
+		              <td>Supplemental Quarterly Financial Information</td>
+		              <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo110719.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>June 30, 2019</td>
+		              <td>Supplemental Quarterly Financial Information</td>
+		              <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo063019.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+                      <td>March 31, 2019</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo033119.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                          </div>
+                        </div>
+                      </div></td
+                    ></tr>
+		    <tr bgcolor="#CCCCCC">
+		      <td>May 1, 2019</td>
+		      <td>Reverse Tender Offer for Preferred Shares</td>
+		      <td><div align="center"><a href="documents/ReverseTenderOffer_050119.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>April 29, 2019</td>
+		      <td>2019 Annual Meeting - Final Voting Results</td>
+		      <td><div align="center"><a href="documents/AnnualMeetingVoteTotals_042519.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#CCCCCC">
+		      <td>April 29, 2019</td>
+		      <td>2019 Annual Meeting - Management Presentation Script</td>
+		      <td><div align="center"><a href="documents/2019_ManagementPresentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>April 25, 2019</td>
+		      <td>2019 Annual Meeting - Presentation Slides</td>
+		      <td><div align="center"><a href="documents/2019_Presentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#CCCCCC">
+		      <td>March 21, 2019</td>
+		      <td>Proxy Statement</td>
+		      <td><div align="center"><a href="documents/2019ProxyStatement_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>March 21, 2019</td>
+		      <td>Annual Report (2018)</td>
+		      <td><div align="center"><a href="documents/CIBMAnnualReport2018_Web.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#CCCCCC">
+		      <td>December 31, 2018</td>
+		      <td>Annual Consolidated Financial Statement</td>
+		      <td><div align="center"><a href="documents/CIBMFinancialStatements_123118.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+		    <tr bgcolor="#FFFFFF">
+		      <td>September 30, 2018</td>
+		      <td>Supplemental Quarterly Financial Information</td>
+		      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo093018.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+		      </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>June 30, 2018</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo063018.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>March 31, 2018</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo033118.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>May 4, 2018</td>
+                      <td>Reverse Tender Offer for Preferred Shares</td>
+                      <td><div align="center"><a href="documents/ReverseTenderOffer_050418.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>May 2, 2018</td>
+                      <td>2018 Annual Meeting - Final Voting Results</td>
+                      <td><div align="center"><a href="documents/AnnualMeetingVoteTotals_042618.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>April 30, 2018</td>
+                      <td>2018 Annual Meeting - Management Presentation Script</td>
+                      <td><div align="center"><a href="documents/2018_ManagmentPresentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>April 26, 2018</td>
+                      <td>2018 Annual Meeting - Presentation Slides</td>
+                      <td><div align="center"><a href="documents/2018_Presentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>March 21, 2018</td>
+                      <td>Proxy Statement</td>
+                      <td><div align="center"><a href="documents/2018ProxyStatement_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>March 21, 2018</td>
+                      <td>Proxy Statement - Proposal 2 - Redline Comparison of Article Amendment</td>
+                      <td><div align="center"><a href="documents/ProxyStatement_SupplementalMaterials.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>March 21, 2018</td>
+                      <td>Annual Report (2017)</td>
+                      <td><div align="center"><a href="documents/CIBMAnnualReport2017_Web.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>March 14, 2018</td>
+                      <td>Special Meeting - Final Voting Results</td>
+                      <td><div align="center"><a href="documents/SpecialMtgVoteTotals_031418.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>March 14, 2018</td>
+                      <td>Special Meeting - Chairman's Presentation</td>
+                      <td><div align="center"><a href="documents/ChairmansPresentation_031418.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>December 31, 2017</td>
+                      <td>Annual Consolidated Financial Statement</td>
+                      <td><div align="center"><a href="documents/CIBMFinancialStatements_123117.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>February 7, 2018</td>
+                      <td>Proxy Statement - Special Meeting of Preferred Shareholders</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center">
+                              <div align="center"><a href="documents/CIBMPreferredProxyStatement_020718.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>September 30, 2017</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo_110817.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>June 30, 2017</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center">
+                        <div align="center">
+                          <div align="center">
+                            <div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo_080317.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                          </div>
+                        </div>
+                      </div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>August 3, 2017</td>
+                      <td>2017 Annual Meeting - Final Voting Results</td>
+                      <td><div align="center"><a href="documents/AnnualMeetingVoteTotals_080317.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>May 30, 2017</td>
+                      <td>2017 Annual Meeting - Additional TARP Information</td>
+                      <td><div align="center"><a href="documents/AdditionalTARPInformation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>May 30, 2017</td>
+                      <td>2017 Annual Meeting - Script</td>
+                      <td><div align="center"><a href="documents/2017_Script_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>May 25, 2017</td>
+                      <td>2017 Annual Meeting - Management Presentation</td>
+                      <td><div align="center"><a href="documents/2017_Presentation_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>March 31, 2017</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo_033117.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>April 19, 2017</td>
+                      <td>Proxy Statement</td>
+                      <td><div align="center"><a href="documents/2017ProxyStatement_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>April 19, 2017</td>
+                      <td>Annual Report (2016)</td>
+                      <td><div align="center"><a href="documents/CIBMAnnualReport2016_web.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>December 31, 2016</td>
+                      <td>Annual Consolidated Financial Statement</td>
+                      <td><div align="center"><a href="documents/CIBMFinancialStatements_123116.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>December 31, 2016</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo123116.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td>September 30, 2016</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td>
+                        <div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo093016.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td>June 30, 2016</td>
+                      <td>Supplemental Quarterly Financial Information</td>
+                      <td><div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo063016.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
                     <tr bgcolor="#CCCCCC">
                       <td>May 27, 2016</td>
                       <td>2016 Annual Meeting - Shareholder Q&amp;A Slides</td>
-                      <td><div align="center">
-                        <div align="center"><a href="documents/2016_QandASlides_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
-                      </div></td>
+                      <td><div align="center"><a href="documents/2016_QandASlides_Final.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
                     </tr>
                     <tr bgcolor="#FFFFFF">
                       <td>May 27, 2016</td>

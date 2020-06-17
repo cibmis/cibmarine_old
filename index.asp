@@ -28,7 +28,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
   font-size: 13px;
   font-weight: bold;
 }
-.style48 {color: #323264}
+.style52 {color: #333366}
 -->
 </style>
 </head>
@@ -135,11 +135,20 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                             <td><img src="art/icon_wht_bullet.gif" width="4" height="4" /></td>
                             <td nowrap="nowrap"><a href="financial_info/section16.asp">Section 16 Filings</a></td>
                           </tr>
+                          <tr>
+                            <td><img src="art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                            <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
+                          </tr>
                         </table>
                       </td>
                     </tr>
                     <tr>
-                      <td valign="top" bgcolor="#A3A3A3" class="style47"><div align="center" class="style48"><a href="corp_info/2016AnnualShareholderMeeting.asp">2016 Annual Shareholder Meeting Information</a></div></td>
+                      <td valign="top" bgcolor="#A3A3A3" class="style47"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
+                          <tr valign="top">
+                            <td width="168" align="center" valign="middle"><a href="AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
+                          </tr>
+                        </table>
+                        <p style="margin-bottom: 0;">&nbsp;</p></td>
                     </tr>
                   </table>
                 </td>
@@ -156,10 +165,10 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
             </table>
             <table class="cibHome" width="585" border="0" cellspacing="0" cellpadding="15">
               <tr valign="top">
-                <td width="94%" height="51"><p class="style44" style="margin-top: 0;">CI<span class="style6">B Marine Bancshares, Inc. is a bank holding company with its principal executive offices in Waukesha, Wisconsin, a suburb of Milwaukee. </span></p>
+                <td width="94%" height="51"><p class="style44" style="margin-top: 0;">CI<span class="style6">B Marine Bancshares, Inc. is a bank holding company with its principal executive offices in Brookfield, Wisconsin, a suburb of Milwaukee. </span></p>
                   <p class="style44"><span class="style6">CIB Marine Bancshares, Inc. was originally incorporated in the State of Illinois in 1985 as Sidney Bancorporation, Inc., a one-bank holding company headquartered in Sidney, Illinois. In September 1987, a group of investors acquired Sidney Bancorporation and subsequently changed its name to Central Illinois Bancorp, Inc. On August 27, 1999, Central Illinois Bancorp reincorporated as a Wisconsin corporation and changed its name to CIB Marine Bancshares, Inc.</span></p>
-                <p class="style45">CIB Marine Bancshares, Inc. owns and operates CIBM Bank, which operates as &quot;Marine Bank&quot; in its Indiana and Wisconsin markets, &quot;Central Illinois Bank&quot;  in its central Illinois market, and &quot;Avenue Bank&quot; in its Chicagoland market. The  Avenue Mortgage division of the bank, located in Naperville, Illinois, serves all CIBM Bank  markets. </p>
-                <p align="left" class="style44" style="margin-bottom: 0;">CIBM Bank offers a full array of traditional banking services, including a broad range of loan products, such as commercial loans, commercial real estate loans, commercial and residential construction loans, one-to-four family residential real estate loans, consumer loans, and commercial and standby letters of credit; acceptance of demand, savings and time deposits; commercial paper and repurchase agreements; and other banking services. </p></td>
+                <p class="style45">CIB Marine Bancshares, Inc. owns and operates CIBM Bank, an Illinois chartered commercial bank headquartered in Champaign, Illinois.&nbsp; The Mortgage Division of the bank, headquartered in Naperville, Illinois, serves all CIBM Bank markets.</p>
+<p align="left" class="style44" style="margin-bottom: 0;">CIBM Bank offers a full array of traditional banking services, including a broad range of loan products, such as commercial loans, commercial real estate loans, commercial and residential construction loans, government guaranteed loans, one-to-four family residential real estate loans, home equity loans, consumer loans, and commercial and standby letters of credit; acceptance of demand, savings and time deposits; trust services, including cash management; repurchase agreements; and other banking services. </p></td>
               </tr>
             </table>
             <p>&nbsp;</p>

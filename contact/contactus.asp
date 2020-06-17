@@ -82,24 +82,31 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                             <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
                             <td><a href="../corp_info/careers.asp">Careers</a></td>
                           </tr>
-                          <tr>
-                            <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td><a href="../documents/CodeofEthicsPolicy_Final.pdf" target="_blank">Code of Ethics <br />
-            Policy [PDF]</a></td>
-                          </tr>
                       </table></td>
                   </tr>
                   <tr>
                     <td bgcolor="#A3A3A3" valign="top"> <img src="../art/career_ops.gif" alt="Career Opportunities" width="145" height="9" /><br />
                         <img src="../art/spacer.gif" width="150" height="6" border="0" />
-                        <table class="white_nav" width="169" border="0" cellspacing="0" cellpadding="4">
+                        <table class="white_nav" width="184" border="0" cellspacing="0" cellpadding="4">
                           <tr>
                             <td width="4"><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td width="146"><a href="../financial_info/sec_filings.asp">SEC Filings</a></td>
+                            <td width="155"><a href="../financial_info/press_releases.asp">Press Releases</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                            <td><a href="../corp_info/AdditionalFinancialInformation.asp">Additional Financial Info</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                            <td><a href="../corp_info/RegulatoryFilings.asp">Regulatory Filings</a></td>
+                          </tr>
+                          <tr>
+                            <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
+                            <td><a href="../financial_info/holderletters.asp">Shareholder Letters</a></td>
                           </tr>
                           <tr>
                             <td width="4"><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td width="146"><a href="../financial_info/section16.asp">Section 16 Filings</a></td>
+                            <td width="155"><a href="../financial_info/sec_filings.asp">SEC Filings</a></td>
                           </tr>
                           <!--                          <tr>
                             <td width="4"><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
@@ -108,11 +115,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                           </tr>-->
                           <tr>
                             <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td><a href="../financial_info/press_releases.asp">Press Releases</a></td>
+                            <td><a href="../financial_info/section16.asp">Section 16 Filings</a></td>
                           </tr>
                           <tr>
                             <td><img src="../art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td><a href="../financial_info/holderletters.asp">Shareholder Letters</a></td>
+                            <td><a href="../documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
                           </tr>
                       </table></td>
                   </tr>
@@ -132,19 +139,19 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                 <td valign="top" height="51" width="569"> 
 				<h3>Principal Executive Offices</h3>
                 </strong>CIB Marine Bancshares, Inc.<br />
-                1930 W. Bluemound Road, Suite D<br />
-            Waukesha, WI 53186<br />
+                19601 W. Bluemound Road<br />
+            Brookfield, WI 53045<br />
           <strong>Phone:</strong> 262.695.6010 <br />
-                    <strong>Fax:</strong> 262.695.6014<br />
+                    <strong>Fax:</strong> 630.735.2841<br />
 <br />
   <hr size="1" noshade="noshade" />
   <h3>Investor Relations</h3>
   <p style="margin-bottom: 0;">Elizabeth Neighbors, Paralegal and Investor Relations Manager <br />
-    1930 W. Bluemound Road, Suite D<br />
-    Waukesha, WI 53186<br />
+    19601 W. Bluemound Road<br />
+    Brookfield, WI 53045<br />
   </p>
   <p style="margin-top: 0;"><strong>Phone:</strong> 262.695.6010 <br />
-      <strong>Fax:</strong> 262.695.8319<br />
+      <strong>Fax:</strong> 630.735.2841<br />
                     <strong>Email: </strong><a href="mailto:shareholderrelations@cibmarine.com">shareholderrelations@cibmarine.com</a>
                   </p>
                 </p></td>
