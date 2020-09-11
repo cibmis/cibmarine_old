@@ -142,12 +142,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                 </td>
               </tr>
               <tr>
-                <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
-                    <tr valign="top">
-                      <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style53">2020 Annual Shareholder Meeting</a></td>
-                    </tr>
-                  </table>
-                  <p style="margin-bottom: 0;"></p></td>
+                <td bgcolor="#A3A3A3" valign="top"><p style="margin-bottom: 0;"></p></td>
               </tr>
               <tr>
                 <td bgcolor="#A3A3A3" valign="top"></td>
@@ -184,11 +179,17 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td width="83%">Date of Shareholder Letter</td>
                       <td width="17%"><div align="center">Link to File </div></td>
                     </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>August 6, 2020</td>
+		              <td><div align="center">
+		                <div align="center">
+		                  <div align="center"><a href="documents/ShareholderLetter_080620.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+		                </div>
+		              </div></td>
+	                </tr>
 		            <tr bgcolor="#CCCCCC">
 		              <td>May 7, 2020</td>
-		              <td><div align="center">
-		                <div align="center"><a href="documents/ShareholderLetter_050720.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
-		              </div></td>
+		              <td><div align="center"><a href="documents/ShareholderLetter_050720.pdf"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
 	                </tr>
 		            <tr bgcolor="#FFFFFF">
 		              <td>February 13, 2020</td>

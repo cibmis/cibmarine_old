@@ -142,12 +142,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                 </td>
               </tr>
               <tr>
-                <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
-                  <tr valign="top">
-                    <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style55">2020 Annual Shareholder Meeting</a></td>
-                  </tr>
-                </table>
-                  <p style="margin-bottom: 0;"></p></td>
+                <td bgcolor="#A3A3A3" valign="top"><p style="margin-bottom: 0;"></p></td>
               </tr>
               <tr>
                 <td bgcolor="#A3A3A3" valign="top"></td>
@@ -185,6 +180,28 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td width="64%">Type of Information</td>
                       <td width="10%"><div align="center">Link to File </div></td>
                     </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>August 6, 2020</td>
+		              <td>Supplemental Quarterly Financial Information</td>
+		              <td><div align="center">
+		                <div align="center">
+		                  <div align="center"><a href="documents/CIBMQuarterlyAddtnlInfo063020.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+		                </div>
+		              </div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#FFFFFF">
+		              <td>August 5, 2020</td>
+		              <td>Special Meeting - Final Voting Results</td>
+		              <td><div align="center"><a href="documents/SpecialMtgVoteTotals_080520.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
+		            <tr bgcolor="#CCCCCC">
+		              <td>July 1, 2020</td>
+		              <td>Proxy Statement - Special Meeting of Preferred Shareholders</td>
+		              <td><div align="center"><a href="documents/CIBMPreferredProxyStatement_070120.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td
+                    >
+	                </tr>
 		            <tr bgcolor="#FFFFFF">
 		              <td>May 7, 2020</td>
 		              <td>Supplemental Quarterly Financial Information</td>

@@ -137,18 +137,13 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                           </tr>
                           <tr>
                             <td><img src="art/icon_wht_bullet.gif" width="4" height="4" /></td>
-                            <td nowrap="nowrap"><a href="documents/CIBMAmendedArticles_042718.pdf">Articles of Incorporation</a></td>
+                            <td nowrap="nowrap"><a href="documents/CIBMarineArticles.pdf">Articles of Incorporation</a></td>
                           </tr>
                         </table>
                       </td>
                     </tr>
                     <tr>
-                      <td valign="top" bgcolor="#A3A3A3" class="style47"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
-                          <tr valign="top">
-                            <td width="168" align="center" valign="middle"><a href="AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
-                          </tr>
-                        </table>
-                        <p style="margin-bottom: 0;">&nbsp;</p></td>
+                      <td valign="top" bgcolor="#A3A3A3" class="style47"><p style="margin-bottom: 0;">&nbsp;</p></td>
                     </tr>
                   </table>
                 </td>

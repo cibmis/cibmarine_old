@@ -143,12 +143,7 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                         </table>                      </td>
                     </tr>
                     <tr>
-                      <td height="10" valign="top" bgcolor="#A3A3A3"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
-                          <tr valign="top">
-                            <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
-                          </tr>
-                        </table>
-                        <p style="margin-bottom: 0;"></p></td>
+                      <td height="10" valign="top" bgcolor="#A3A3A3"><p style="margin-bottom: 0;"></p></td>
                     </tr>
                   </table></td>
               </tr>
@@ -183,6 +178,13 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td><div align="center"><strong>Date of Press Release</strong></div></td>
                       <td><div align="center"><strong>Description of Press Release </strong></div></td>
                       <td><div align="center">File</span></div></td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                      <td height="20">July 16, 2020</td>
+                      <td >CIB Marine Announces 2020 Second Quarter Results</td>
+                      <td><div align="center">
+                        <div align="center"><a href="documents/PressRelease_2QFinancials_071620.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div>
+                      </div></td>
                     </tr>
                     <tr bgcolor="#CCCCCC">
                       <td height="20">June 17, 2020</td>

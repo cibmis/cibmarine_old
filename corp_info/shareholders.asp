@@ -123,12 +123,7 @@ a {text-decoration: none}
                       </td>
                   </tr>
                   <tr>
-                    <td bgcolor="#A3A3A3" valign="top"><table width="178" height="61" border="1" align="center" bordercolor="#000000" bgcolor="#CCCCCC">
-                        <tr valign="top">
-                          <td width="168" align="center" valign="middle"><a href="../AnnualShareholderMeeting2020.asp" class="style52">2020 Annual Shareholder Meeting</a></td>
-                        </tr>
-                      </table>
-                      <p style="margin-bottom: 0;"></p></td>
+                    <td bgcolor="#A3A3A3" valign="top"><p style="margin-bottom: 0;"></p></td>
                   </tr>
                 </table></td>
               </tr>
