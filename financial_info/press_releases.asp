@@ -179,6 +179,11 @@ checks, charge, student, senior, Check, Card, credit, debit, atm, Visa, savings,
                       <td><div align="center"><strong>Description of Press Release </strong></div></td>
                       <td><div align="center">File</span></div></td>
                     </tr>
+                    <tr bgcolor="#CCCCCC">
+                      <td height="20">September 11, 2020</td>
+                      <td >CIB Marine Announces 1:15 Reverse Split of Common Stock</td>
+                      <td><div align="center"><a href="documents/PR_ReverseSplit_091120.pdf" target="_top"><img src="../images/icons/icon_pdf.gif" width="20" height="10" border="0" /></a></div></td>
+                    </tr>
                     <tr bgcolor="#FFFFFF">
                       <td height="20">July 16, 2020</td>
                       <td >CIB Marine Announces 2020 Second Quarter Results</td>
